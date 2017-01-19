@@ -7,12 +7,12 @@ PSB adalah aplikasi komputer yang membantu sekolah, agar:
 - Layanan Calon siswa lebih baik
 - Calon siswa mendapat akses lebih baik pada informasi tentang sekolah
 
-OpenSID dikelola di Github untuk:
+PSB dikelola di Github untuk:
 - memudahkan teman-teman untuk belajar khususnya Jurusan TKJ
 - merekam semua perubahan yg dibuat
-- memudahkan kolaborasi antar pegiat SID dan juga dengan desa dampingan dalam mengembangkan SID
+- memudahkan dalam mengembangkan PSB
 - backup online _source code_ PSB yg dapat diaskses setiap saat
 
 ## DEMO
-Demo aplikasi OpenSID dapat dilihat di http://smkn1ampana.hol.es.
+Demo aplikasi PSB dapat dilihat di http://smkn1ampana.hol.es.
 Untuk Database nya Hub. 0851-4401-1857
