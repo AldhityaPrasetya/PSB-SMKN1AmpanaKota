@@ -15,3 +15,4 @@ OpenSID dikelola di Github untuk:
 
 ## DEMO
 Demo aplikasi OpenSID dapat dilihat di http://smkn1ampana.hol.es.
+Untuk Database nya Hub. 0851-4401-1857
