@@ -13,6 +13,5 @@ PSB dikelola di Github untuk:
 - memudahkan dalam mengembangkan PSB
 - backup online _source code_ PSB yg dapat diaskses setiap saat
 
-## DEMO
-Demo aplikasi PSB dapat dilihat di http://smkn1ampana.hol.es.
-Untuk Database nya Hub. 0851-4401-1857
+
+Untuk Database nya Hub. 0822-9065-9197
